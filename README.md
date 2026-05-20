@@ -147,6 +147,10 @@ const firebaseConfig = {
 - GitHub: [el-xearl](https://github.com/el-xearl)
 - Portfolio: [serhat-portfolio.vercel.app](https://serhat-portfolio.vercel.app)
 
+## Contributor
+
+Ayberk contributed to documentation improvements.
+
 ## 📄 License
 
 This project is created for educational purposes.
